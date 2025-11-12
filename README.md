@@ -33,6 +33,6 @@ Fake News Detection/
 
 ## Performance
 
-The fine-tuned model achieves 35% improvement in accuracy compared to the baseline model
+The fine-tuned model achieves 35% improvement in accuracy compared to the baseline model.
 
 
